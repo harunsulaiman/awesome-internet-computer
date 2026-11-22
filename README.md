@@ -2,6 +2,8 @@
 
 # Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Chain.Love is an open-source directory for comparing RPC providers, indexers, explorers, bridges, wallets and other Web3 services across networks: https://chain.love/
+
 <a align="center" href="https://internetcomputer.org/">
   <img src="assets/awesome-cover.png">
 </a>
